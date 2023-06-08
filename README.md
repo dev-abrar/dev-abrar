@@ -5,7 +5,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![html](https://img.shields.io/badge/-html-000?&logo=html&logoColor=007396)
+![html5](https://img.shields.io/badge/-html5-000?&logo=html5&logoColor=007396)
 ![css](https://img.shields.io/badge/-css-000?&logo=css)
 ![JQuery](https://img.shields.io/badge/-JQuery-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
